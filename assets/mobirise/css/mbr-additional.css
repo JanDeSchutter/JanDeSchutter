@@ -2329,7 +2329,7 @@ body {
 .cid-qGVmzJJbPK {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/dsc03623-2000x1125.jpg");
+  background-image: url("../../../assets/images/dsc03632-2000x1125.jpg");
 }
 .cid-qGVmzJJbPK .mbr-figure {
   margin: 0 auto;
@@ -2348,7 +2348,7 @@ body {
 .cid-qGVn3wUXn1 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/dsc03623-2000x1125.jpg");
+  background-image: url("../../../assets/images/dsc03632-2000x1125.jpg");
 }
 .cid-qGVn3wUXn1 .mbr-figure {
   margin: 0 auto;
@@ -2367,7 +2367,7 @@ body {
 .cid-qGVpiVI1H4 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/dsc03623-2000x1125.jpg");
+  background-image: url("../../../assets/images/dsc03632-2000x1125.jpg");
 }
 .cid-qGVpiVI1H4 .mbr-figure {
   margin: 0 auto;
@@ -2386,7 +2386,7 @@ body {
 .cid-qGVqoVYTRB {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/dsc03623-2000x1125.jpg");
+  background-image: url("../../../assets/images/dsc03632-2000x1125.jpg");
 }
 .cid-qGVqoVYTRB .mbr-figure {
   margin: 0 auto;
@@ -2405,7 +2405,7 @@ body {
 .cid-qGVqDvfbWm {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/dsc03623-2000x1125.jpg");
+  background-image: url("../../../assets/images/dsc03632-2000x1125.jpg");
 }
 .cid-qGVqDvfbWm .mbr-figure {
   margin: 0 auto;
@@ -2424,7 +2424,7 @@ body {
 .cid-qGVvIZKix5 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/dsc03623-2000x1125.jpg");
+  background-image: url("../../../assets/images/dsc03632-2000x1125.jpg");
 }
 .cid-qGVvIZKix5 .mbr-figure {
   margin: 0 auto;
@@ -2443,7 +2443,7 @@ body {
 .cid-qGVwIzNTEJ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/dsc03623-2000x1125.jpg");
+  background-image: url("../../../assets/images/dsc03632-2000x1125.jpg");
 }
 .cid-qGVwIzNTEJ .mbr-figure {
   margin: 0 auto;
@@ -2456,6 +2456,25 @@ body {
 }
 @media (max-width: 991px) {
   .cid-qGVwIzNTEJ .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-qGYbaThEdr {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/dsc03632-2000x1125.jpg");
+}
+.cid-qGYbaThEdr .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.cid-qGYbaThEdr .mbr-figure img {
+  height: 100%;
+}
+@media (max-width: 991px) {
+  .cid-qGYbaThEdr .mbr-figure img {
     width: 100% !important;
   }
 }
